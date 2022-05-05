@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Myself Rituraj Singh 
+### Myself, RITURAJ SINGH 
 
 - 👨‍🎓 I’m graduate student with Masters in Computer Science with specialization in Software Development
 - 🔭 Recently I completed my Master Thesis in the sphere of Reinforcement Learning
