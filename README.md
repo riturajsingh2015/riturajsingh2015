@@ -3,12 +3,24 @@
 ### Myself, RITURAJ SINGH 
 
 
-- 👨‍🎓 I’m graduate student with Masters in Computer Science with specialization in Software Development
-- 🔭 Recently I completed my Master Thesis in the sphere of Reinforcement Learning
-- 🌱 I’m love working on projects in the field of Software Developement
-- 🔍 Seeking Full-Time Software Engineer Role
-- 💬 Ask me about Java, Spring-Boot, Hibernate , Python , Machine Learning , Kubernetes , Docker
-- 📫 How to reach me: 
+🎀 Software Development and Programming is my passion!  
+
+I am a recent university graduate with a major in Computer Science with a specialization in Software Development who thrives to manifest end-to-end products with real-world applications.
+
+💪 STRENGTHS 
+- Backend development with frameworks: Spring-Boot |  NodeJs
+- Frontend development with React | HTML | CSS3
+- Practical experience with Machine Learning algorithms & frameworks: Tensorflow | Numpy | Pandas
+- Exposure to Continuous Integration & Continuous Delivery with Jenkins
+- Sound mathematical aptitude | cognizance of DSA |  Software Design Patterns
+
+🔍 SEEKING
+Junior Level Software developer roles 
+
+👇 GITHUB 
+https://github.com/riturajsingh2015
+
+📫 CONTACT: 
   - 📧 riturajsingh2015@gmail.com 
   - 📱  +4917643627091
 - 😄 Pronouns: He/Him
