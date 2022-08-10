@@ -15,10 +15,10 @@ I am a recent university graduate with a major in Computer Science with a specia
 - Sound mathematical aptitude | cognizance of DSA |  Software Design Patterns
 
 🔍 SEEKING
-Junior Level Software developer roles 
+- Junior Level Software developer roles 
 
 👇 GITHUB 
-https://github.com/riturajsingh2015
+- https://github.com/riturajsingh2015
 
 📫 CONTACT: 
   - 📧 riturajsingh2015@gmail.com 
