@@ -14,8 +14,10 @@ I am a recent university graduate with a major in Computer Science with a specia
 - Exposure to Continuous Integration & Continuous Delivery with Jenkins
 - Sound mathematical aptitude | cognizance of DSA |  Software Design Patterns
 
+<!---
 🔍 SEEKING
 - Junior Level Software developer roles 
+--->
 
 👇 GITHUB 
 - https://github.com/riturajsingh2015
