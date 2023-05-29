@@ -8,8 +8,9 @@
 I am a Software developer and offering services with Odoo framework. 
 
 💪 STRENGTHS 
-- Backend development with frameworks: Odoo | Python
+- Backend development with frameworks: Odoo | Python 
 - Frontend development with Javascript | HTML | CSS3
+- Practical experience with odoov15
 - Practical experience with Machine Learning algorithms & frameworks: Tensorflow | Numpy | Pandas
 - Exposure to Continuous Integration & Continuous Delivery with GITLAB
 - Sound mathematical aptitude | cognizance of DSA |  Software Design Patterns
