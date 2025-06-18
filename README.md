@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Odoo Developer** wit
 
 ## 🛠️ Skills & Expertise
 - **Backend Development**: Python, Odoo (v15-v18), REST APIs, Software Design Patterns
-- **Frontend Development**: JavaScript, HTML, CSS3
+- **Frontend Development**: JavaScript, HTML, CSS3 , Bootstrap , Tailwind CSS
 - **AI & Machine Learning**: Pytorch, TensorFlow, NumPy, Pandas
 - **DevOps**: Continuous Integration & Continuous Delivery (CI/CD) with GitLab
 - **Core Competencies**: Data Structures & Algorithms (DSA), Problem Solving, Mathematical Aptitude
