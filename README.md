@@ -8,10 +8,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with **3
 - 💼 **Role**: Full-Stack Odoo Developer
 - 🌟 **Passion**: Crafting efficient software solutions and diving deep into AI, DSA, and software design patterns
 - 📍 **Location**: Germany
-- 📫 **Contact**: 
-  - Email: [riturajsingh2015@gmail.com](mailto:riturajsingh2015@gmail.com)
-  - Phone: [+4917643627091](tel:+4917643627091)
-  - GitHub: [riturajsingh2015](https://github.com/riturajsingh2015)
 
 ---
 
