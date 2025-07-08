@@ -1,6 +1,6 @@
 # Rituraj Singh 👨‍💻
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Odoo Developer** with **3+ years of experience** building robust and scalable software solutions. My expertise lies in **backend development** with Python, **frontend development** with JavaScript, HTML, and CSS. I have keen interest in exploring **AI**, **Data Structures & Algorithms**, and complex problem-solving.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with **3+ years of experience** building robust and scalable software solutions. My expertise lies in **backend development** with Python in Odoo, **frontend development** with JavaScript, HTML, and CSS. I have keen interest in exploring **AI**, **Data Structures & Algorithms**, and complex problem-solving.
 
 ---
 
