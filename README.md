@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with **3
 ---
 
 ## 🚀 About Me
-- 💼 **Role**: Full-Stack Odoo Developer
+- 💼 **Role**: Software Developer
 - 🌟 **Passion**: Crafting efficient software solutions and diving deep into AI, DSA, and software design patterns
 - 📍 **Location**: Germany
 
